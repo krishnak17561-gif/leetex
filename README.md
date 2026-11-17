@@ -4,5 +4,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/krishnak17561-gif/leetex/tree/master/0001-two-sum) |
 | [1470-shuffle-the-array](https://github.com/krishnak17561-gif/leetex/tree/master/1470-shuffle-the-array) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/krishnak17561-gif/leetex/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
